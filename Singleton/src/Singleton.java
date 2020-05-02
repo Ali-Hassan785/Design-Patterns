@@ -5,7 +5,7 @@ public class Singleton {
 		// TODO Auto-generated method stub
 		System.out.println("Ali Hassan");
 		System.out.print("Ali Hassan");
-
+		System.out.println("Ali Hassan");
 	}
 
 }
